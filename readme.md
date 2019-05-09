@@ -4,6 +4,8 @@ This is a Mac keyboard tenkey layout. You would typically toggle between a stand
 
 The layout attempts to keep a number of keys used for the ten key in the place they are on the base typing layout.
 
+![tenkey layout](https://raw.githubusercontent.com/baldwindavid/tenkey/master/tenkey-layout.png)
+
 ## Installation
 
 - Copy `tenkey.bundle` to `~/Library/Keyboard Layouts/`
