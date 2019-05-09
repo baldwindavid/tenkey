@@ -24,7 +24,7 @@ Input sources can be toggled back and forth on a Mac.
 - Select `Input Sources`
 - Check the box for `Select the previous input source`
 - Set to your desired shortcut. I like `CMD+i` for "input source" and because my middle finger rests over it anyway
-- Whichever are the last two keyboard layouts you've used can now be toggled back and forth. This would presumably your standard typing layout and the tenkey layout.
+- Whichever are the last two keyboard layouts you've used can now be toggled back and forth. This would presumably be your standard typing layout and the tenkey layout.
 
 ## FAQ
 
